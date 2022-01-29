@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AndroidNotification</string>
+    <string name="show_notification_button">Show notification Button</string>
+</resources>
